@@ -1,0 +1,7 @@
+C:\Users\Dinopc\Desktop\DotnetFrameworkDesafioDois\DotnetFrameworkDesafioDois\bin\Debug\DotnetFrameworkDesafioDois.exe.config
+C:\Users\Dinopc\Desktop\DotnetFrameworkDesafioDois\DotnetFrameworkDesafioDois\bin\Debug\DotnetFrameworkDesafioDois.exe
+C:\Users\Dinopc\Desktop\DotnetFrameworkDesafioDois\DotnetFrameworkDesafioDois\bin\Debug\DotnetFrameworkDesafioDois.pdb
+C:\Users\Dinopc\Desktop\DotnetFrameworkDesafioDois\DotnetFrameworkDesafioDois\obj\Debug\DotnetFrameworkDesafioDois.csproj.AssemblyReference.cache
+C:\Users\Dinopc\Desktop\DotnetFrameworkDesafioDois\DotnetFrameworkDesafioDois\obj\Debug\DotnetFrameworkDesafioDois.csproj.CoreCompileInputs.cache
+C:\Users\Dinopc\Desktop\DotnetFrameworkDesafioDois\DotnetFrameworkDesafioDois\obj\Debug\DotnetFrameworkDesafioDois.exe
+C:\Users\Dinopc\Desktop\DotnetFrameworkDesafioDois\DotnetFrameworkDesafioDois\obj\Debug\DotnetFrameworkDesafioDois.pdb
